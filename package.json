@@ -1,0 +1,30 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "Boiler plate code for html site",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cache-bust": "^0.4.5",
+    "grunt-contrib-concat": "^0.5.0",
+    "grunt-contrib-copy": "^0.7.0",
+    "grunt-contrib-cssmin": "^0.10.0",
+    "grunt-contrib-uglify": "^0.6.0",
+    "grunt-processhtml": "^0.3.3",
+    "grunt-uncss": "^0.3.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rw251/html-boiler-plate.git"
+  },
+  "author": "Richard Williams",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rw251/html-boiler-plate/issues"
+  },
+  "homepage": "https://github.com/rw251/html-boiler-plate"
+}
